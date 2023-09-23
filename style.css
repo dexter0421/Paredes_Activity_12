@@ -1,0 +1,26 @@
+.done {
+    text-decoration: line-through;
+  }
+  
+  #taskList li {
+    margin-bottom: 8px;
+  }
+  
+  #taskList li button {
+    margin-left: 8px;
+  }
+  
+  #todoInput, #addTask {
+    padding: 8px;
+  }
+  
+  button {
+    background-color: #f60e0e;
+    color: #000000;
+    border-color: #ff0000;
+  }
+  
+  button:hover {
+    background-color: #948b8a;
+    border-color: #000000;
+  }
